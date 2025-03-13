@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CmsShopping/static/css/main.afbb57d3.css",
+    "main.js": "/CmsShopping/static/js/main.00628106.js",
+    "static/media/WorkSans-VariableFont_wght.ttf": "/CmsShopping/static/media/WorkSans-VariableFont_wght.a0297787a1a192213b53.ttf",
+    "static/media/Mj_Naskh Titr.ttf": "/CmsShopping/static/media/Mj_Naskh Titr.f0c313abe658e7f4c003.ttf",
+    "static/media/Mj_Mohammad.ttf": "/CmsShopping/static/media/Mj_Mohammad.76ca3a9f94784a35aa05.ttf",
+    "static/media/Far_Nazanin.ttf": "/CmsShopping/static/media/Far_Nazanin.a1764d620b06312a872b.ttf",
+    "static/media/TitanOne-Regular.ttf": "/CmsShopping/static/media/TitanOne-Regular.465442311c8eb8cd5fe8.ttf",
+    "static/media/Macondo-Regular.ttf": "/CmsShopping/static/media/Macondo-Regular.0f91bbd01192421b9786.ttf",
+    "index.html": "/CmsShopping/index.html",
+    "main.afbb57d3.css.map": "/CmsShopping/static/css/main.afbb57d3.css.map",
+    "main.00628106.js.map": "/CmsShopping/static/js/main.00628106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afbb57d3.css",
+    "static/js/main.00628106.js"
+  ]
+}
