@@ -1,0 +1,128 @@
+.div_container{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    background-color:rgb(141, 171, 216);
+
+
+    
+}
+
+.divContainerDark{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    background-color:#3b3b3b;
+    color:white;
+}
+
+.divInfo{
+    display: flex;
+    margin-right: 5%;
+    margin-top: 1%;
+
+}
+.iconStyle{
+    cursor: pointer;
+}
+.placeStyle{
+    position: relative;
+    bottom: 2%;
+}
+
+.inputSearch{
+    width:400px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 90%;
+
+}
+
+.divSearch{
+    display: flex;
+    height: 40%;
+    margin-top: 1.5%;
+    margin-left:15%;
+}
+
+.divTP{
+    font-weight: bold;
+    margin-right: 2%;
+    width: 200px ;
+}
+
+
+.buttonSearch{
+    border-radius:50px;
+    width:20%;
+    position:relative;
+    left:15%;
+    top: 2%;
+    font-weight:bold;
+    height:90%;
+
+}
+
+
+@media screen and (max-width:768px) {
+    .inputSearch{
+        width:400px;
+        border: 2px solid black;
+        border-radius: 10px;
+        height: 200%;
+    }
+
+    .buttonSearch{
+        border-radius:50px;
+        width:20%;
+        position:relative;
+        left:15%;
+        top: 2%;
+        font-weight:bold;
+        height:200%;
+    
+    }
+}
+
+.divNotif{
+    position: absolute;
+    width: 240px;
+    top:6.5%;
+    left: 3%;
+    color: black;
+    
+}
+
+@media screen and (max-width:768px) {
+    .divNotif{
+        position: absolute;
+        width: 220px;
+        top:22%;
+        left: 3%;
+        color: black;
+        
+    }
+}
+
+@media screen and (min-width:1920) {
+    .divNotif{
+        position: absolute;
+        width: 220px;
+        top:5%;
+        left: 10%;
+        color: black;
+        
+    }
+}
+
+.toastHeaderStyle{
+    display: flex; 
+    justify-content: space-between;
+}
+
+
+.custom-btn-close{
+    width: 5%!important;
+    height: 5px !important;
+}
+

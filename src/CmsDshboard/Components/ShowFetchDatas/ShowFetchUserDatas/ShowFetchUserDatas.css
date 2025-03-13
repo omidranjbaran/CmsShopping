@@ -1,0 +1,42 @@
+.buttonStyle {
+  margin-right: 10%;
+  margin-top: 1%;
+  background-color: rgb(206, 179, 231) !important;
+  color: black !important;
+}
+
+.tableStyle {
+  margin-top: 2%;
+  text-align: center;
+  height: 50%;
+  align-self: center;
+  justify-self: center;
+  justify-content: center;
+  align-items: center;
+}
+
+tr {
+  vertical-align: middle;
+  border-bottom: none;
+}
+
+.divSearchBar {
+  margin-top: 3%;
+  margin-right: 2%;
+}
+
+
+.messageConnection{
+  text-align: center;
+  background-color: antiquewhite;
+  width: 50%;
+  position: relative;
+  right: 22%;
+  margin-top: 5%;
+  
+  
+}
+
+.pmessageConnection{
+  font-size: 25px;
+}
